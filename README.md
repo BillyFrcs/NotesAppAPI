@@ -5,7 +5,8 @@ Testing to Deployed a [Node.js](https://nodejs.org) Back-End Notes App in Google
 ## Setup And Installation 
 
 * Run `npm install` to install all of the required dependencies.
-* Start the server in Production mode run `npm run start` and to start in Development mode run `npm run dev`
+* Start the server in Production mode run `npm run start` and to start in Development mode just simply run `npm run dev`
+
 
 ## Google Cloud Console
 Go to [Google Cloud Console](https://console.cloud.google.com/) and create a firewall rule and VM instance.
