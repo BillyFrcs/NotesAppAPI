@@ -63,7 +63,7 @@ const getNoteByIdHandler = (request, h) => {
 
    const response = h.response({
       status: 'fail',
-      message: 'Cannot found any notes!',
+      message: 'Cannot found any note!',
    });
 
    response.code(404);
@@ -128,7 +128,7 @@ const deleteNoteByIdHandler = (request, h) => {
 
    const response = h.response({
       status: 'fail',
-      message: 'Cannot delete note!'
+      message: 'Cannot found any note!'
    });
 
    response.code(404);
