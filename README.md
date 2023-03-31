@@ -1,4 +1,4 @@
-<h1 align="center">Notes App | Back-End</h1>
+<h1 align="center">Notes App API | Back-End</h1>
 
 Testing to Deployed a [Node.js](https://nodejs.org) Back-End Notes App API in Google Cloud Platform with Google Compute Engine Virtual Machine (VM) Instances.
 
